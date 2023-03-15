@@ -1,0 +1,29 @@
+[ 
+
+    {
+        "id":"231422",
+        "name": "Emilio Esteban Galindo",
+        "carrera": "ISC"
+     },
+     {
+        "id":"123456",
+        "name": "Jose Eduardo Urzua",
+        "carrera": "ISC"
+     },
+     {
+        "id":"456789",
+        "name": "Cesar Ruiz Cruz",
+        "carrera": "ISC"
+     },
+     {
+        "id":"987654",
+        "name": "Marcos David De la Cruz",
+        "carrera": "ISC"
+     },
+     {
+        "id":"654321",
+        "name": "Eli Celeste Martinez",
+        "carrera": "ISC"
+     }
+
+]
